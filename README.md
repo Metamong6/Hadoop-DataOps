@@ -1,6 +1,8 @@
 # Hadoop-DataOps - Data Engineering
 Main : 김주호, 송지원, 오세연
 
+소개 : https://github.com/Metamong6/Kubeflow-MLOps/blob/master/README.md
+
 <br /><br />
 
 ## Data
