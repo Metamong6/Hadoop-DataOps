@@ -34,22 +34,17 @@ from. https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 <br /><br />
 
-## Hadoop based
-
-### Basic Env.
-
-
-### Zookeeper
-
-### HDFS
-
-### Yarn & Yarn on Spark
-
-#### Pyspark
+## Hadoop based(HDFS, Hive, Yarn on Spark)
+https://github.com/Metamong6/Hadoop-DataOps/tree/main/hadoop_settings/hadoop
 
 ### Hive
+https://github.com/Metamong6/Hadoop-DataOps/tree/main/hadoop_settings/hive
 
-### Airflow
+### Zookeeper
+zoo.cfg
+https://github.com/Metamong6/Hadoop-DataOps/blob/main/hadoop_settings/zookeeper/zoo.cfg
+
+### Yarn on Spark & Pyspark
+https://github.com/Metamong6/Hadoop-DataOps/tree/main/spark_settings
 
 
-## TroubleShooting + What We Learn
