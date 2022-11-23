@@ -1,5 +1,5 @@
 # Hadoop-DataOps - Data Engineering
-Main : 김주호, 송지원, 
+Main : 김주호, 송지원, 오세연
 
 <br /><br />
 
